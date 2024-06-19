@@ -29,7 +29,7 @@ Hi there! I'm a Computer Science student with a passion for Cyber Security and C
 ---
 
 <div id="header" align="center">
-  <img width="1000" src="https://github.com/s-o-ham/soham/blob/e19c830c311fd3903746afab97f49d8ac9da7c54/github-snake.svg" alt="snake"/>
+  <img width="1000" src="https://github.com/s-o-ham/s-o-ham/blob/2ae0225d0774efaae542e64b3e47f4808a9ceafc/github-snake.svg" alt="snake"/>
 </div>
 
 
